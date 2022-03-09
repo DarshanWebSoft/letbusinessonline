@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: Company
-Template URL: https://bootstrapmade.com/company-free-html-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template URL: https://12darshan78.github.io/letbusinessonline/
+Author:Darshan Wala
