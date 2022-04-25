@@ -91,6 +91,24 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 
+.whatsapp {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.inquiry {
+    width: 100%;
+    height: auto;
+    margin-top: 2%;
+    object-fit: cover;
+    display: flex;
+    justify-content: space-around;
+}
+
 #header {
     background: #fff;
     transition: all 0.5s;
