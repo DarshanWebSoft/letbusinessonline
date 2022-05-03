@@ -96,8 +96,16 @@ h6 {
     height: auto;
     object-fit: cover;
     margin-top: 2%;
-    display: flex;
-    justify-content: space-around;
+    /* display: flex; */
+    /* justify-content: space-between; */
+}
+
+.banner {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    margin: 0 auto;
 }
 
 .inquiry {
@@ -105,8 +113,8 @@ h6 {
     height: auto;
     margin-top: 2%;
     object-fit: cover;
-    display: flex;
-    justify-content: space-around;
+    /* display: flex; */
+    /* justify-content: space-between; */
 }
 
 #header {
@@ -2309,4 +2317,32 @@ section {
     top: 46%;
     z-index: 1;
     margin-left: 90%;
+}
+
+@media (max-width: 425px) {
+    .whatsapp img {
+        width: 50%;
+        height: auto;
+    }
+    .inquiry img {
+        width: 50%;
+        height: auto;
+    }
+    .banner {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 375px) {
+    .whatsapp img {
+        width: 50%;
+        height: auto;
+    }
+    .inquiry img {
+        width: 50%;
+        height: auto;
+    }
 }
