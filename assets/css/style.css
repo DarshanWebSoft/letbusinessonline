@@ -2352,7 +2352,16 @@ section {
 }
 
 .culture-section {
-    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(https://nids.co.ke/wp-content/uploads/2020/07/web-dev.jpg) top no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('../img/darshawebsoft_images/5.jpg') top no-repeat;
+    height: 100%;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    padding: 250px 0px;
+}
+
+.culture-section123 {
+    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('../img/darshawebsoft_images/6.jpg') top no-repeat;
     height: 100%;
     background-size: cover;
     color: #fff;
